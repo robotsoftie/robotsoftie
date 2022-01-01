@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robotsoftie
+- 👀 I’m interested in robot software.
+- 🌱 I’m currently learning PyTorch.
+- 💞️ I’m looking to collaborate on deep learning.
+- 📫 How to reach me @robotsoftie on all the websites.
